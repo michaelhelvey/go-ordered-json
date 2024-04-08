@@ -1,0 +1,7 @@
+{
+  "name": "foo",
+  "bar": "baz",
+  "quux": "wah",
+  "something": { "nested": [1, 2, "object"] },
+  "custom_key": "some value"
+}
